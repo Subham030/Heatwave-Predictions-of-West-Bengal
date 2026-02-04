@@ -1,4 +1,4 @@
-# Heatwave-Predictions-of-West-Bengal
+
 
 # Model Architecture,MSE,RMSE,MAE,R2 Score (Accuracy)
 1. **LSTM**:
